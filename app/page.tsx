@@ -9,7 +9,7 @@ export default function Page() {
                    className=""></Image>
             </div>
             <p>
-                This website is built with <a href="https://nextjs.org/" target="blank">Next.JS</a> and <a href="https://tailwindcss.com" target="blank">Tailwind CSS</a>. The <a href="https://github.com/davidleeyale/yuffshop" target="blank">code repository</a> is on <a href="https://www.github.com" target="blank">GitHub</a> and deploys to <a href="https://www.vercel.com" target="blank">Vercel</a>.
+                This website is built with <a href="https://nextjs.org/" className="text-blue-500" target="blank">Next.JS</a> and <a href="https://tailwindcss.com" className="text-blue-500" target="blank">Tailwind CSS</a>. The <a href="https://github.com/davidleeyale/yuffshop" className="text-blue-500" target="blank">code repository</a> is on <a href="https://www.github.com" className="text-blue-500" target="blank">GitHub</a> and deploys to <a href="https://www.vercel.com" className="text-blue-500" target="blank">Vercel</a>.
             </p>
         </div>
     </>
