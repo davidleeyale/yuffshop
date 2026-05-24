@@ -36,10 +36,10 @@ export default function RootLayout({
 }>) {
     return (
         <html lang="en">
-        <body className="min-h-screen bg-gray-50 text-gray-900">
-        <div className="flex min-h-screen flex-col">
+        <body className="min-h-screen text-gray-900">
+        <div className="flex flex-col">
             {/* Header */}
-            <header className="border-b bg-white shadow-sm">
+            <header className="border-b">
                 <div className="mx-auto flex max-w-7xl items-center justify-between px-6 py-4">
                     <Link
                         href="/"
